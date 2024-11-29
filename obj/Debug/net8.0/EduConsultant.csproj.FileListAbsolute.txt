@@ -141,3 +141,12 @@ F:\Local\ASP.Net\EduConsultant\obj\Debug\net8.0\refint\EduConsultant.dll
 F:\Local\ASP.Net\EduConsultant\obj\Debug\net8.0\EduConsultant.pdb
 F:\Local\ASP.Net\EduConsultant\obj\Debug\net8.0\EduConsultant.genruntimeconfig.cache
 F:\Local\ASP.Net\EduConsultant\obj\Debug\net8.0\ref\EduConsultant.dll
+F:\Local\ASP.Net\EduConsultant\obj\Debug\net8.0\EduConsultant.sourcelink.json
+F:\Local\ASP.Net\EduConsultant\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+F:\Local\ASP.Net\EduConsultant\bin\Debug\net8.0\EntityFramework.dll
+F:\Local\ASP.Net\EduConsultant\bin\Debug\net8.0\System.Data.SqlClient.dll
+F:\Local\ASP.Net\EduConsultant\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+F:\Local\ASP.Net\EduConsultant\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+F:\Local\ASP.Net\EduConsultant\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+F:\Local\ASP.Net\EduConsultant\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Local\ASP.Net\EduConsultant\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

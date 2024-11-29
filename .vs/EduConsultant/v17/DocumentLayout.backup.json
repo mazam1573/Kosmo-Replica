@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Local\\ASP.Net\\EduConsultant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92F82F2A-7A41-482F-8006-9AAA47FE4D0B}|EduConsultant.csproj|f:\\local\\asp.net\\educonsultant\\services\\officeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F82F2A-7A41-482F-8006-9AAA47FE4D0B}|EduConsultant.csproj|solutionrelative:services\\officeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F82F2A-7A41-482F-8006-9AAA47FE4D0B}|EduConsultant.csproj|f:\\local\\asp.net\\educonsultant\\controllers\\officecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F82F2A-7A41-482F-8006-9AAA47FE4D0B}|EduConsultant.csproj|solutionrelative:controllers\\officecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F82F2A-7A41-482F-8006-9AAA47FE4D0B}|EduConsultant.csproj|f:\\local\\asp.net\\educonsultant\\repositories\\officerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F82F2A-7A41-482F-8006-9AAA47FE4D0B}|EduConsultant.csproj|solutionrelative:repositories\\officerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F82F2A-7A41-482F-8006-9AAA47FE4D0B}|EduConsultant.csproj|f:\\local\\asp.net\\educonsultant\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F82F2A-7A41-482F-8006-9AAA47FE4D0B}|EduConsultant.csproj|solutionrelative:repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F82F2A-7A41-482F-8006-9AAA47FE4D0B}|EduConsultant.csproj|f:\\local\\asp.net\\educonsultant\\interfaces\\services\\iofficeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F82F2A-7A41-482F-8006-9AAA47FE4D0B}|EduConsultant.csproj|solutionrelative:interfaces\\services\\iofficeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F82F2A-7A41-482F-8006-9AAA47FE4D0B}|EduConsultant.csproj|f:\\local\\asp.net\\educonsultant\\interfaces\\repositories\\iofficerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F82F2A-7A41-482F-8006-9AAA47FE4D0B}|EduConsultant.csproj|solutionrelative:interfaces\\repositories\\iofficerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F82F2A-7A41-482F-8006-9AAA47FE4D0B}|EduConsultant.csproj|f:\\local\\asp.net\\educonsultant\\interfaces\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F82F2A-7A41-482F-8006-9AAA47FE4D0B}|EduConsultant.csproj|solutionrelative:interfaces\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F82F2A-7A41-482F-8006-9AAA47FE4D0B}|EduConsultant.csproj|f:\\local\\asp.net\\educonsultant\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F82F2A-7A41-482F-8006-9AAA47FE4D0B}|EduConsultant.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F82F2A-7A41-482F-8006-9AAA47FE4D0B}|EduConsultant.csproj|f:\\local\\asp.net\\educonsultant\\data\\educonsultantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F82F2A-7A41-482F-8006-9AAA47FE4D0B}|EduConsultant.csproj|solutionrelative:data\\educonsultantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F82F2A-7A41-482F-8006-9AAA47FE4D0B}|EduConsultant.csproj|f:\\local\\asp.net\\educonsultant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F82F2A-7A41-482F-8006-9AAA47FE4D0B}|EduConsultant.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Local\\ASP.Net\\EduConsultant\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Local\\ASP.Net\\EduConsultant\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:57:27.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EduConsultantContext.cs",
+              "DocumentMoniker": "F:\\Local\\ASP.Net\\EduConsultant\\Data\\EduConsultantContext.cs",
+              "RelativeDocumentMoniker": "Data\\EduConsultantContext.cs",
+              "ToolTip": "F:\\Local\\ASP.Net\\EduConsultant\\Data\\EduConsultantContext.cs",
+              "RelativeToolTip": "Data\\EduConsultantContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:05:13.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OfficeService.cs",
+              "DocumentMoniker": "F:\\Local\\ASP.Net\\EduConsultant\\Services\\OfficeService.cs",
+              "RelativeDocumentMoniker": "Services\\OfficeService.cs",
+              "ToolTip": "F:\\Local\\ASP.Net\\EduConsultant\\Services\\OfficeService.cs*",
+              "RelativeToolTip": "Services\\OfficeService.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvx0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:04:51.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OfficeRepository.cs",
+              "DocumentMoniker": "F:\\Local\\ASP.Net\\EduConsultant\\Repositories\\OfficeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OfficeRepository.cs",
+              "ToolTip": "F:\\Local\\ASP.Net\\EduConsultant\\Repositories\\OfficeRepository.cs",
+              "RelativeToolTip": "Repositories\\OfficeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:04:28.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "F:\\Local\\ASP.Net\\EduConsultant\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repository.cs",
+              "ToolTip": "F:\\Local\\ASP.Net\\EduConsultant\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:04:13.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOfficeService.cs",
+              "DocumentMoniker": "F:\\Local\\ASP.Net\\EduConsultant\\Interfaces\\Services\\IOfficeService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\IOfficeService.cs",
+              "ToolTip": "F:\\Local\\ASP.Net\\EduConsultant\\Interfaces\\Services\\IOfficeService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\IOfficeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:03:41.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOfficeRepository.cs",
+              "DocumentMoniker": "F:\\Local\\ASP.Net\\EduConsultant\\Interfaces\\Repositories\\IOfficeRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Repositories\\IOfficeRepository.cs",
+              "ToolTip": "F:\\Local\\ASP.Net\\EduConsultant\\Interfaces\\Repositories\\IOfficeRepository.cs",
+              "RelativeToolTip": "Interfaces\\Repositories\\IOfficeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:03:15.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "F:\\Local\\ASP.Net\\EduConsultant\\Interfaces\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Repositories\\IRepository.cs",
+              "ToolTip": "F:\\Local\\ASP.Net\\EduConsultant\\Interfaces\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Interfaces\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:54:17.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\Local\\ASP.Net\\EduConsultant\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "F:\\Local\\ASP.Net\\EduConsultant\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:01:17.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OfficeController.cs",
+              "DocumentMoniker": "F:\\Local\\ASP.Net\\EduConsultant\\Controllers\\OfficeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OfficeController.cs",
+              "ToolTip": "F:\\Local\\ASP.Net\\EduConsultant\\Controllers\\OfficeController.cs",
+              "RelativeToolTip": "Controllers\\OfficeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:12:29.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

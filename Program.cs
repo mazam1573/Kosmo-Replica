@@ -1,4 +1,8 @@
 using EduConsultant.Data;
+using EduConsultant.Interfaces.Repositories;
+using EduConsultant.Interfaces.Services;
+using EduConsultant.Repositories;
+using EduConsultant.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -30,6 +34,9 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+builder.Services.AddScoped<IOfficeRepository, OfficeRepository>();
+builder.Services.AddScoped<IOfficeService, OfficeService>();
 
 var app = builder.Build();
 

@@ -1,5 +1,6 @@
 ﻿using EduConsultant.Data;
 using EduConsultant.DTOs;
+using EduConsultant.Interfaces.Services;
 using EduConsultant.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -14,34 +15,43 @@ namespace EduConsultant.Controllers
     public class OfficeController : Controller
     {
         private readonly EduConsultantContext _context;
+        private readonly IOfficeService _officeService;
 
-        public OfficeController(EduConsultantContext context)
+        public OfficeController(IOfficeService officeService, EduConsultantContext context)
         {
+            _officeService = officeService;
             _context = context;
         }
+
+        //public OfficeController(EduConsultantContext context)
+        //{
+        //    _context = context;
+        //}
 
         // GET: api/office
         [Authorize]
         [HttpGet("officeList")]
         public async Task<ActionResult<IEnumerable<OfficePostDTO>>> GetOffices()
         {
-            return await _context.Office.Select(o => new OfficePostDTO
-            {
-                Id = o.Id,
-                Name = o.Name,
-                Location = o.Location,
-                Address = o.Address,
-                Phone = o.Phone,
-                Timings = o.Timings,
-                ManagerId = o.Manager.Id,
-                Manager = new ReadShortUserDto
-                {
-                    Id = o.Manager.Id,
-                    Name = o.Manager.First_Name + ' ' + o.Manager.Last_Name,
-                    Email = o.Manager.Email,
-                    Status = o.Manager.Status
-                }
-            }).ToListAsync();
+            var offices = await _officeService.GetOfficeListAsync();
+            return Ok(offices);
+            //return await _context.Office.Select(o => new OfficePostDTO
+            //{
+            //    Id = o.Id,
+            //    Name = o.Name,
+            //    Location = o.Location,
+            //    Address = o.Address,
+            //    Phone = o.Phone,
+            //    Timings = o.Timings,
+            //    ManagerId = o.Manager.Id,
+            //    Manager = new ReadShortUserDto
+            //    {
+            //        Id = o.Manager.Id,
+            //        Name = o.Manager.First_Name + ' ' + o.Manager.Last_Name,
+            //        Email = o.Manager.Email,
+            //        Status = o.Manager.Status
+            //    }
+            //}).ToListAsync();
         }
 
         // GET: api/office/5

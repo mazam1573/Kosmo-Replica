@@ -56,8 +56,6 @@ namespace EduConsultant.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateUser(long id, User user)
         {
-            if(id != user.Id) return BadRequest();
-
             _context.Entry(user).State = EntityState.Modified;
             var userData = await _context.User.FindAsync(id);
             if (userData == null) 
